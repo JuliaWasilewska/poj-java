@@ -1,0 +1,5 @@
+Zadanie 2 - warto sprawdzić przed pobranie od użytkownika czy typ danych jest poprawny.
+Nie ma konieczności castowania formatu, wystarczy dzielić przez 5.0 (9/5.0)
+W zadaniu 6 warto dodać klauzule default
+
+Ocena 5/5

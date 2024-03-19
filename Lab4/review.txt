@@ -1,0 +1,6 @@
+1. Enumy powinny być osobnymi plikami
+2. Nazwy metod małą (Symulation)
+3. Metody rzadko kiedy opisujemy jako statyczne (private static int coinFlip), domyślnie stosujemy wywoływane z obiektu. W tym przypadku wystarczy pominąć static.
+
+
+Ocena 5/5

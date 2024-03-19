@@ -1,0 +1,5 @@
+W zadaniu 2 jak metody są używane tylko wewnątrz tej jednej metody to lepiej je definiować jako private. Dzięki temu spełniamy zadany programowanie OOP - enkapsulacja.
+Komentarze do metod zawsze dajemy nad metodą, a nie obok jej definicji
+
+
+Ocena 5/5

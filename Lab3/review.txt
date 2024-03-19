@@ -1,0 +1,5 @@
+1. Nazwy pakietów powinny być małą literą
+2. W switchu warto dopisać zawsze element default
+3. Stany on/off lepiej przechowywać jako boolean
+
+Ocena 5/5
